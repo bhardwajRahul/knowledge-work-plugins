@@ -500,7 +500,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-cap-table",
         "ref": "main",
-        "sha": "74dcec2b733f150c11b6d7c59b7a37e63da79a82"
+        "sha": "787932173c1bc0fb6f2346e380fddd2349ceb8df"
       },
       "homepage": "https://carta.com"
     },
@@ -526,7 +526,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-investors",
         "ref": "main",
-        "sha": "74dcec2b733f150c11b6d7c59b7a37e63da79a82"
+        "sha": "c3b215afca71e5fd3b607fb6b558a85c23272d59"
       },
       "homepage": "https://carta.com"
     },
@@ -626,7 +626,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/wix/skills.git",
-        "sha": "483d35bb7bf5e59268d938cc03802cac9a324508"
+        "sha": "320c8affaa42ad0a7cee5fa7e020926677ec63a5"
       },
       "homepage": "https://dev.wix.com/docs/wix-cli/guides/development/about-wix-skills"
     },
@@ -664,7 +664,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/langfuse/skills.git",
-        "sha": "b2df647aef80678abc2f2c45faa867b2853e862c"
+        "sha": "d48c5b8b434dc34550053699e8403c23f231446d"
       },
       "homepage": "https://langfuse.com"
     },
