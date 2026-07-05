@@ -526,7 +526,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-investors",
         "ref": "main",
-        "sha": "e32d1707c89887768fd8462c3942865ae3b7e343"
+        "sha": "515c08928d76d3b1b515a63a82bf7272dff1578f"
       },
       "homepage": "https://carta.com"
     },
@@ -626,7 +626,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/wix/skills.git",
-        "sha": "e00cc4b85da811a4457edcf0fc43cf79c751ec89"
+        "sha": "39165b47e23b613312c5dcf5eecc2275d428682b"
       },
       "homepage": "https://dev.wix.com/docs/wix-cli/guides/development/about-wix-skills"
     },
@@ -859,7 +859,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/pixeltable/pixeltable-skill.git",
-        "sha": "933c15b55a49aa375ce0300c074bdf43b68571b9"
+        "sha": "729175dbb2a144bb6529fb93ac696bad40a1f09d"
       },
       "homepage": "https://docs.pixeltable.com"
     },
