@@ -500,7 +500,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-cap-table",
         "ref": "main",
-        "sha": "4eceb972f7954ea5b00f7df66b7adca11bdd5425"
+        "sha": "ce224404fdb0b262bb9574d1827b4a544f0237bb"
       },
       "homepage": "https://carta.com"
     },
@@ -526,7 +526,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-investors",
         "ref": "main",
-        "sha": "4eceb972f7954ea5b00f7df66b7adca11bdd5425"
+        "sha": "ce224404fdb0b262bb9574d1827b4a544f0237bb"
       },
       "homepage": "https://carta.com"
     },
@@ -626,7 +626,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/wix/skills.git",
-        "sha": "afe99e49d0f2a8b87fe83278dedb5fcee993ca48"
+        "sha": "e3dd377060fe1e9e3300bb0f1e72c84809cabec9"
       },
       "homepage": "https://dev.wix.com/docs/wix-cli/guides/development/about-wix-skills"
     },
@@ -733,7 +733,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/lusha-oss/lusha-mcp-plugin.git",
-        "sha": "f42bb8f65b3a62fd59711578b8e0446bca644e4b"
+        "sha": "aafe0a59cb143d0adc711af2813cd3b9cd5693d0"
       },
       "homepage": "https://www.lusha.com"
     },
@@ -747,7 +747,7 @@
         "url": "https://github.com/auth0/agent-skills.git",
         "path": "plugins/auth0",
         "ref": "main",
-        "sha": "1ee3e4cc6f43dafa6bcffcc24bb04a94d1a6dc85"
+        "sha": "aacefa7dcbdf2d32ac14d3d7790b610cf716bd3c"
       },
       "homepage": "https://github.com/auth0/agent-skills"
     },
@@ -783,7 +783,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/datarobot-oss/datarobot-agent-skills.git",
-        "sha": "c4a9729d617aa32e7e9e35c6b30cc97ae81ee47e"
+        "sha": "d6725fd1bca76743d0309fd48cba91a5586e27de"
       },
       "homepage": "https://datarobot.com"
     },
@@ -795,7 +795,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/qdrant/skills.git",
-        "sha": "c6ec1242a20bde524e9e4a73ee5540fb22b99235"
+        "sha": "4f77cb1ada4917202b64d54b6b8a78bc0a387373"
       },
       "homepage": "https://skills.qdrant.tech"
     },
@@ -819,7 +819,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/exa-labs/exa-mcp-server.git",
-        "sha": "9c69a3b45b228243215c59673e54c5bf321bb416"
+        "sha": "c4b419adb3ce2674ad062b15f0d42f8b8cee05c5"
       },
       "homepage": "https://exa.ai/docs/reference/exa-mcp"
     },
@@ -928,20 +928,6 @@
         "sha": "a53638c2b23b82c6be7c4e5b1e3cecd6a59f9fb8"
       },
       "homepage": "https://github.com/b12io/b12-claude-plugin"
-    },
-    {
-      "name": "signoz",
-      "displayName": "SigNoz",
-      "description": "Official SigNoz plugin for MCP setup, docs, queries, dashboards, and alerts",
-      "category": "monitoring",
-      "source": {
-        "source": "git-subdir",
-        "url": "https://github.com/SigNoz/agent-skills.git",
-        "path": "plugins/signoz",
-        "ref": "main",
-        "sha": "c86f50a83d52894fb989628b6401824a4238fba4"
-      },
-      "homepage": "https://signoz.io/docs/ai/agent-skills"
     }
   ]
 }
