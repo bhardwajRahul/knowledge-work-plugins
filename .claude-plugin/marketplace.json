@@ -526,7 +526,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-investors",
         "ref": "main",
-        "sha": "8c1d5e78f088f85fe8809dacddd0c5914e33569c"
+        "sha": "a8b2c4bb64765d6fff78019679eda0641de5cdf8"
       },
       "homepage": "https://carta.com"
     },
@@ -604,7 +604,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/explorium-ai/vibeprospecting-plugin.git",
-        "sha": "80f7fa2ab35102d3e279e6d3730a3d138b48aa37"
+        "sha": "14cb2971a99661382f5a56a9caa7c2d526c4e444"
       },
       "homepage": "https://www.vibeprospecting.ai/product/claude-plugin"
     },
@@ -626,7 +626,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/wix/skills.git",
-        "sha": "ea51a398690ee1048e1f46a848cd1245697a0a88"
+        "sha": "53576644680fe8b7d14920b7024f7eb0fef7afc0"
       },
       "homepage": "https://dev.wix.com/docs/wix-cli/guides/development/about-wix-skills"
     },
@@ -664,7 +664,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/langfuse/skills.git",
-        "sha": "a20c726a70137cb4e3667de78613ba7e00685018"
+        "sha": "242e0ecce57c73da91af5d1afe5e5dfaf6661482"
       },
       "homepage": "https://langfuse.com"
     },
@@ -747,7 +747,7 @@
         "url": "https://github.com/auth0/agent-skills.git",
         "path": "plugins/auth0",
         "ref": "main",
-        "sha": "ce813504a5f05f2c09fe9aa3a10ca6a0b574d875"
+        "sha": "1ee3e4cc6f43dafa6bcffcc24bb04a94d1a6dc85"
       },
       "homepage": "https://github.com/auth0/agent-skills"
     },
@@ -795,7 +795,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/qdrant/skills.git",
-        "sha": "2a06cb1e9b614fca0f902eed79edd049c24877c5"
+        "sha": "8ba95bc77c88d8db365075e285c005654303b205"
       },
       "homepage": "https://skills.qdrant.tech"
     },
@@ -819,7 +819,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/exa-labs/exa-mcp-server.git",
-        "sha": "8823cbea80b6ec5999c6217cccd91660fe953b97"
+        "sha": "9c69a3b45b228243215c59673e54c5bf321bb416"
       },
       "homepage": "https://exa.ai/docs/reference/exa-mcp"
     },
@@ -939,7 +939,7 @@
         "url": "https://github.com/SigNoz/agent-skills.git",
         "path": "plugins/signoz",
         "ref": "main",
-        "sha": "693b54add12dce5de936e994162930399303e13b"
+        "sha": "6f3f47ec3c104353c58853e2caa7a4599af44f3d"
       },
       "homepage": "https://signoz.io/docs/ai/agent-skills"
     }
