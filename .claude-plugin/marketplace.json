@@ -305,7 +305,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/cockroachdb/claude-plugin.git",
-        "sha": "0581a7986340d70c6af4799046fdecf6390e5dd6"
+        "sha": "c511ba806b1797b1737fc4cbffbe3dba8697b1f2"
       },
       "homepage": "https://github.com/cockroachdb/claude-plugin"
     },
@@ -500,7 +500,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-cap-table",
         "ref": "main",
-        "sha": "3887ef66b3eba905b03e225a5e5c9459c6345755"
+        "sha": "3c8a5d9ff75ec95a8418978a2a2bbce076f9a010"
       },
       "homepage": "https://carta.com"
     },
@@ -513,7 +513,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-crm",
         "ref": "main",
-        "sha": "3887ef66b3eba905b03e225a5e5c9459c6345755"
+        "sha": "fdc57d653abf38cc0a70ddd9e4f23c273af86a7b"
       },
       "homepage": "https://carta.com"
     },
@@ -526,7 +526,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-investors",
         "ref": "main",
-        "sha": "3887ef66b3eba905b03e225a5e5c9459c6345755"
+        "sha": "3c8a5d9ff75ec95a8418978a2a2bbce076f9a010"
       },
       "homepage": "https://carta.com"
     },
@@ -604,7 +604,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/explorium-ai/vibeprospecting-plugin.git",
-        "sha": "1eb655845e2b30a5478747803f364286d60c6332"
+        "sha": "fcbbd20ca679a776a461d7e5aea3688320dbd63c"
       },
       "homepage": "https://www.vibeprospecting.ai/product/claude-plugin"
     },
@@ -626,7 +626,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/wix/skills.git",
-        "sha": "26f651e36305435a535d6802d35df58c3de8e510"
+        "sha": "c54241783c1b9f6d96b81e2c7278b8349d703703"
       },
       "homepage": "https://dev.wix.com/docs/wix-cli/guides/development/about-wix-skills"
     },
@@ -795,7 +795,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/qdrant/skills.git",
-        "sha": "97c547be82211d269da8c2549f5ccde6a16fa2c9"
+        "sha": "5ea598defd15447062ad2873bc2f464ac4cde606"
       },
       "homepage": "https://skills.qdrant.tech"
     },
@@ -939,23 +939,9 @@
         "url": "https://github.com/SigNoz/agent-skills.git",
         "path": "plugins/signoz",
         "ref": "main",
-        "sha": "478ec291491b7eb59824fb9947bf6f37ca640db3"
+        "sha": "9c848a54182215209bc18516c13edf03aeea2303"
       },
       "homepage": "https://signoz.io/docs/ai/agent-skills"
-    },
-    {
-      "name": "tinyfish",
-      "displayName": "TinyFish",
-      "description": "The complete web toolkit for your agent. Search the web and get answers in milliseconds. Fetch any URL and get clean markdown content back. Send a browser agent to navigate sites, fill forms, and extract structured data. Spin up a headless browser for full programmatic control when you need it.",
-      "category": "automation",
-      "source": {
-        "source": "git-subdir",
-        "url": "https://github.com/tinyfish-io/tinyfish-cookbook.git",
-        "path": "plugins/tinyfish",
-        "ref": "main",
-        "sha": "6156fbdb0dd0509af18326a0e7af2e6717768bdb"
-      },
-      "homepage": "https://docs.tinyfish.ai"
     }
   ]
 }
