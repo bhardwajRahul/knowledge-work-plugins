@@ -500,7 +500,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-cap-table",
         "ref": "main",
-        "sha": "4f46ba0181f4d07b45b7fd8e51208c9699afd566"
+        "sha": "3887ef66b3eba905b03e225a5e5c9459c6345755"
       },
       "homepage": "https://carta.com"
     },
@@ -513,7 +513,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-crm",
         "ref": "main",
-        "sha": "4f46ba0181f4d07b45b7fd8e51208c9699afd566"
+        "sha": "3887ef66b3eba905b03e225a5e5c9459c6345755"
       },
       "homepage": "https://carta.com"
     },
@@ -526,7 +526,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-investors",
         "ref": "main",
-        "sha": "70c61a2abbc976280e102edbc696cdb84da6a7f1"
+        "sha": "3887ef66b3eba905b03e225a5e5c9459c6345755"
       },
       "homepage": "https://carta.com"
     },
@@ -626,7 +626,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/wix/skills.git",
-        "sha": "e08711cc8d56d23e229b1ec68a88cec6d2c08042"
+        "sha": "26f651e36305435a535d6802d35df58c3de8e510"
       },
       "homepage": "https://dev.wix.com/docs/wix-cli/guides/development/about-wix-skills"
     },
@@ -664,7 +664,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/langfuse/skills.git",
-        "sha": "21033b441816025d52e9cff940aeb61680618ea3"
+        "sha": "02636d5bbe0cbcc8d1392203dfba9c60595a2e93"
       },
       "homepage": "https://langfuse.com"
     },
@@ -747,7 +747,7 @@
         "url": "https://github.com/auth0/agent-skills.git",
         "path": "plugins/auth0",
         "ref": "main",
-        "sha": "0d426960256fe7e54e05495fab64208e1924f23b"
+        "sha": "ec605c397aab905c25871c791e9777dbbb633db5"
       },
       "homepage": "https://github.com/auth0/agent-skills"
     },
@@ -759,7 +759,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/buildkite/skills.git",
-        "sha": "48619b1b5187209d74b333a215d63a2c7088f614"
+        "sha": "24242e53c688546fb39e40a7f1f769dbbcd77400"
       },
       "homepage": "https://github.com/buildkite/skills"
     },
@@ -783,7 +783,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/datarobot-oss/datarobot-agent-skills.git",
-        "sha": "d438bb71a6d9cf58bef69cf286966bb218dc386f"
+        "sha": "c6e70363e41bac72470f755952b04eb7504a0ab0"
       },
       "homepage": "https://datarobot.com"
     },
@@ -795,7 +795,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/qdrant/skills.git",
-        "sha": "d1af526ebe6db70b5cf957a62b7cfdfd85f362e1"
+        "sha": "97c547be82211d269da8c2549f5ccde6a16fa2c9"
       },
       "homepage": "https://skills.qdrant.tech"
     },
@@ -913,7 +913,7 @@
         "url": "https://github.com/honeycombio/agent-skill.git",
         "path": "honeycomb",
         "ref": "main",
-        "sha": "189553c8a879cfaaf206ba9cc68c1b2117d12a76"
+        "sha": "53e6bb80242d4667dd730e7cc2150a4a2f9a83bf"
       },
       "homepage": "https://github.com/honeycombio/agent-skill"
     },
