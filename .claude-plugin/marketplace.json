@@ -500,7 +500,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-cap-table",
         "ref": "main",
-        "sha": "dda298e64d1e890c0abfc0223507aae12259342e"
+        "sha": "7f18fbaa9321fa377ede3b65a6791b3e458627d2"
       },
       "homepage": "https://carta.com"
     },
@@ -526,7 +526,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-investors",
         "ref": "main",
-        "sha": "7f18fbaa9321fa377ede3b65a6791b3e458627d2"
+        "sha": "a6c97d0e25b6c559adb905dd4a6d11ce478aec86"
       },
       "homepage": "https://carta.com"
     },
@@ -542,7 +542,7 @@
         "url": "https://github.com/Airtable/skills.git",
         "path": "plugins/airtable",
         "ref": "main",
-        "sha": "812ee67f1fd3d76fb45ff8df40afaa0448602ba8"
+        "sha": "295ab93b7d765912ee1a0dc7f1abb0ecaf73f138"
       },
       "homepage": "https://www.airtable.com"
     },
@@ -566,7 +566,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/qodo-ai/qodo-skills.git",
-        "sha": "ad848afd32eff172ce9073d9b1b1efe462ea0af2"
+        "sha": "5c31f3275199c6ccf07fa84c3a34d6d338f97aee"
       },
       "homepage": "https://qodo.ai"
     },
@@ -579,7 +579,7 @@
         "url": "https://github.com/ServiceNow/sdk.git",
         "path": "providers/claude/plugin",
         "ref": "main",
-        "sha": "d69bd6395d064c8f3d659f4dd373abf0f17a3b37"
+        "sha": "255d35e94e5393e9f36e7ca2789dee83a8aa7f47"
       },
       "homepage": "https://servicenow.github.io/sdk/"
     },
@@ -615,7 +615,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/base44/skills.git",
-        "sha": "b557b167b07ab9c315f7ff194f533f3f76c3fcf4"
+        "sha": "40e548021670ed409d3bae15601726cf652d846f"
       },
       "homepage": "https://docs.base44.com"
     },
@@ -626,7 +626,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/wix/skills.git",
-        "sha": "f84e879d31bbc465670e34a3fe72b7ee95c31003"
+        "sha": "f3e0af79941465142790e4b972c5d4a856dbbc2e"
       },
       "homepage": "https://dev.wix.com/docs/wix-cli/guides/development/about-wix-skills"
     },
@@ -664,7 +664,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/langfuse/skills.git",
-        "sha": "13a79944c3c16cde049bb39576102cd768baa06b"
+        "sha": "3e89523ca290e0192395c5044b1cef11063a1842"
       },
       "homepage": "https://langfuse.com"
     },
@@ -747,7 +747,7 @@
         "url": "https://github.com/auth0/agent-skills.git",
         "path": "plugins/auth0",
         "ref": "main",
-        "sha": "e295fd64597c164c31921705b530baadaf60dd87"
+        "sha": "7e9ce869824c34a871500de216f8e75344195edb"
       },
       "homepage": "https://github.com/auth0/agent-skills"
     },
@@ -783,7 +783,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/datarobot-oss/datarobot-agent-skills.git",
-        "sha": "f432e0cbfc04a38176bc27246f10cf779646c9e3"
+        "sha": "d438bb71a6d9cf58bef69cf286966bb218dc386f"
       },
       "homepage": "https://datarobot.com"
     },
@@ -939,7 +939,7 @@
         "url": "https://github.com/SigNoz/agent-skills.git",
         "path": "plugins/signoz",
         "ref": "main",
-        "sha": "de93bd31e934b450dd02c5f77ce7176ae2d22f3e"
+        "sha": "98b5e76881a9e582446d4a551d210e7ad50b2bef"
       },
       "homepage": "https://signoz.io/docs/ai/agent-skills"
     },
@@ -950,10 +950,10 @@
       "category": "automation",
       "source": {
         "source": "git-subdir",
-        "url": "https://github.com/tinyfish-io/tinyfish-web-agent-integrations.git",
-        "path": "claude",
+        "url": "https://github.com/tinyfish-io/tinyfish-cookbook.git",
+        "path": "plugins/tinyfish",
         "ref": "main",
-        "sha": "80ce9bfacafd7e26d425200677a16cef835b054f"
+        "sha": "00bf5cb7a3945110da2a8cc0323b29fccb988104"
       },
       "homepage": "https://docs.tinyfish.ai"
     },
