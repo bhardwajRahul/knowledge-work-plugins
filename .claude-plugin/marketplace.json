@@ -500,7 +500,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-cap-table",
         "ref": "main",
-        "sha": "1ac80e56a3a36ebfdbcbc345b83f98a333c903fd"
+        "sha": "87d5ef76df973327673fb891fdc7c796ad39f5a3"
       },
       "homepage": "https://carta.com"
     },
@@ -513,7 +513,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-crm",
         "ref": "main",
-        "sha": "1ac80e56a3a36ebfdbcbc345b83f98a333c903fd"
+        "sha": "f57875b3efe079460cd586856facfcb99f177d6b"
       },
       "homepage": "https://carta.com"
     },
@@ -526,7 +526,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-investors",
         "ref": "main",
-        "sha": "1ac80e56a3a36ebfdbcbc345b83f98a333c903fd"
+        "sha": "0ee7645485815d49458449b44047cf431a71f456"
       },
       "homepage": "https://carta.com"
     },
@@ -615,7 +615,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/base44/skills.git",
-        "sha": "ee5371011cb43a0dcdf1bab313ee704b461a2eb6"
+        "sha": "0d3b72a76e91d920f4a151b68dd224510ca5dc14"
       },
       "homepage": "https://docs.base44.com"
     },
@@ -626,7 +626,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/wix/skills.git",
-        "sha": "19b49bfb1116c155999eeda366c249e9e0b045da"
+        "sha": "df0c1f4f58f230b5a8ee2e3b698c9728bb46ffb9"
       },
       "homepage": "https://dev.wix.com/docs/wix-cli/guides/development/about-wix-skills"
     },
@@ -678,7 +678,7 @@
         "url": "https://github.com/val-town/plugins.git",
         "path": "plugin",
         "ref": "main",
-        "sha": "d14627f6be0a0f08481615cb834fa56a0e910d2a"
+        "sha": "1bd1c3f93161d88908dc0838aa81980ff1b2e4f7"
       },
       "homepage": "https://val.town"
     },
@@ -747,7 +747,7 @@
         "url": "https://github.com/auth0/agent-skills.git",
         "path": "plugins/auth0",
         "ref": "main",
-        "sha": "b4c7bc08d30c3ab017bfc43799a01bdebe71c2e8"
+        "sha": "e6ffc31f1a77047b96e8075c8834aca8db4ca6fa"
       },
       "homepage": "https://github.com/auth0/agent-skills"
     },
@@ -795,7 +795,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/qdrant/skills.git",
-        "sha": "aa2355fcf06b805110fb8cecbd1aa4d64c15eb73"
+        "sha": "b522300eab8936b3ded889a64b174ed6d7e4f783"
       },
       "homepage": "https://skills.qdrant.tech"
     },
