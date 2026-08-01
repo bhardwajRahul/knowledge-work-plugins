@@ -500,7 +500,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-cap-table",
         "ref": "main",
-        "sha": "ffcf886e3458e7b1faf5b65d89a16be06289893a"
+        "sha": "2a69e6322722ec1120a5f1572bb5063167a9b02a"
       },
       "homepage": "https://carta.com"
     },
@@ -626,7 +626,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/wix/skills.git",
-        "sha": "755d65e7616108cf481fc0b681adf270d453f9f4"
+        "sha": "19b49bfb1116c155999eeda366c249e9e0b045da"
       },
       "homepage": "https://dev.wix.com/docs/wix-cli/guides/development/about-wix-skills"
     },
@@ -783,7 +783,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/datarobot-oss/datarobot-agent-skills.git",
-        "sha": "519c35ecd71e063572439f9bf272a1fd4fcf9980"
+        "sha": "79c4d2b59333a4b41f226907ca9bdc4d23fa2f10"
       },
       "homepage": "https://datarobot.com"
     },
@@ -899,7 +899,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/grasp-ai/grasp-mcp-plugin.git",
-        "sha": "0f3bdfb9fcd282bba4d27b4012f6a44dfd09bf41"
+        "sha": "46636efae712699778d15a05b6cffc6f7d2bdf26"
       },
       "homepage": "https://www.grasp-ai.com/"
     },
@@ -939,7 +939,7 @@
         "url": "https://github.com/SigNoz/agent-skills.git",
         "path": "plugins/signoz",
         "ref": "main",
-        "sha": "5915eae32738ab9dd09a57199a0d5f20d7506b29"
+        "sha": "0a516863fe9fd0d9967cae5db59d6e9feac5b3b7"
       },
       "homepage": "https://signoz.io/docs/ai/agent-skills"
     },
@@ -1043,7 +1043,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/gitkraken/claude-plugin.git",
-        "sha": "f7a53b2cd138c22eccb977b9d93494ea6d423d12"
+        "sha": "cd0c2976c9b47a56e2b7d4cce1cd77fc058bee39"
       },
       "homepage": "https://www.gitkraken.com"
     }
