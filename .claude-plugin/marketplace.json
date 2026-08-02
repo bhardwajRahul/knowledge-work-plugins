@@ -526,7 +526,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-investors",
         "ref": "main",
-        "sha": "1ac80e56a3a36ebfdbcbc345b83f98a333c903fd"
+        "sha": "2a69e6322722ec1120a5f1572bb5063167a9b02a"
       },
       "homepage": "https://carta.com"
     },
@@ -819,7 +819,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/exa-labs/exa-mcp-server.git",
-        "sha": "a664592b5dd7c5598b70158c771dcc5c2a4fb2c1"
+        "sha": "b4076055af28698d944b50deade80e541b7788ea"
       },
       "homepage": "https://exa.ai/docs/reference/exa-mcp"
     },
