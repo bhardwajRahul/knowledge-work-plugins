@@ -245,7 +245,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Zoominfo/zoominfo-mcp-plugin.git",
-        "sha": "66eae634f40f68bddc6027f0167bbecdb5f4b531"
+        "sha": "3ec997a1ffaaa8d5d98d81b6b9d8c3fdafab6420"
       },
       "homepage": "https://zoominfo.com"
     },
@@ -349,7 +349,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Nimbleway/agent-skills.git",
-        "sha": "16a599fbb27a841d996fae0385bc3cacc528c299"
+        "sha": "7b93ca4c67f30c8dbcf98bd44224bceb7e5368c7"
       },
       "homepage": "https://docs.nimbleway.com/integrations/agent-skills/plugin-installation"
     },
@@ -461,7 +461,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/box/box-for-ai.git",
-        "sha": "20374501fc7323c359bc67779520fbd75c36fc82"
+        "sha": "172a8273f5d532c13ef6a3057e50c30e5368a2aa"
       },
       "homepage": "https://github.com/box/box-for-ai"
     },
@@ -500,7 +500,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-cap-table",
         "ref": "main",
-        "sha": "f95f76bcab9a11d419b0eebc80c4d6c7cf0f03ba"
+        "sha": "7b02f62bdb4455c5a9dc4259eca7fca71a9525ed"
       },
       "homepage": "https://carta.com"
     },
@@ -513,7 +513,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-crm",
         "ref": "main",
-        "sha": "f95f76bcab9a11d419b0eebc80c4d6c7cf0f03ba"
+        "sha": "7b02f62bdb4455c5a9dc4259eca7fca71a9525ed"
       },
       "homepage": "https://carta.com"
     },
@@ -526,7 +526,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-investors",
         "ref": "main",
-        "sha": "f95f76bcab9a11d419b0eebc80c4d6c7cf0f03ba"
+        "sha": "d65129bf40559d9b68641fe9f34203f644a4831c"
       },
       "homepage": "https://carta.com"
     },
@@ -626,7 +626,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/wix/skills.git",
-        "sha": "3a771a138353fddf585386fb600dcc5639d77a0d"
+        "sha": "5ba0173577dd63a7988f0d958030935dccb01632"
       },
       "homepage": "https://dev.wix.com/docs/wix-cli/guides/development/about-wix-skills"
     },
@@ -747,7 +747,7 @@
         "url": "https://github.com/auth0/agent-skills.git",
         "path": "plugins/auth0",
         "ref": "main",
-        "sha": "ff9618bb145f326341979ec976d7e722a7b001c0"
+        "sha": "b7d5f82c3f09a5af9d140d324b73d2aba922e549"
       },
       "homepage": "https://github.com/auth0/agent-skills"
     },
@@ -771,7 +771,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/ClickHouse/clickhouse-claude-code-plugin.git",
-        "sha": "988a7a39834af9c9e14ec3650365243e2cfc6882"
+        "sha": "fcce1175a863f0833875ad696373ac9f2a408e6e"
       },
       "homepage": "https://github.com/ClickHouse/clickhouse-claude-code-plugin"
     },
