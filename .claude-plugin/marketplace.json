@@ -245,7 +245,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Zoominfo/zoominfo-mcp-plugin.git",
-        "sha": "3ec997a1ffaaa8d5d98d81b6b9d8c3fdafab6420"
+        "sha": "66eae634f40f68bddc6027f0167bbecdb5f4b531"
       },
       "homepage": "https://zoominfo.com"
     },
@@ -327,7 +327,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/fastly/fastly-agent-toolkit.git",
-        "sha": "9e5372506801baba57a3e903bc0e8c48823be081"
+        "sha": "f6dc3106d928312818b0252272c68d62a74644f7"
       },
       "homepage": "https://github.com/fastly/fastly-agent-toolkit/blob/main/README.md"
     },
@@ -349,7 +349,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Nimbleway/agent-skills.git",
-        "sha": "d520dc1110e97362183c698d35f8c13e12d3f8f2"
+        "sha": "16a599fbb27a841d996fae0385bc3cacc528c299"
       },
       "homepage": "https://docs.nimbleway.com/integrations/agent-skills/plugin-installation"
     },
@@ -417,7 +417,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/gitroomhq/postiz-agent.git",
-        "sha": "885e1b04260a2746a3fe92d75e241101111a7a71"
+        "sha": "41c5a9dbd6b2776863e7c05c22e7a385c208321c"
       },
       "homepage": "https://postiz.com/agent"
     },
@@ -500,7 +500,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-cap-table",
         "ref": "main",
-        "sha": "5577658f26260d5b3dab8ca2f7df6891030a7967"
+        "sha": "f95f76bcab9a11d419b0eebc80c4d6c7cf0f03ba"
       },
       "homepage": "https://carta.com"
     },
@@ -513,7 +513,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-crm",
         "ref": "main",
-        "sha": "83b12a65597806463c2df192553e696693603ffe"
+        "sha": "f95f76bcab9a11d419b0eebc80c4d6c7cf0f03ba"
       },
       "homepage": "https://carta.com"
     },
@@ -526,7 +526,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-investors",
         "ref": "main",
-        "sha": "c59339c3aa9846212c19ed99a940b30e1160f07f"
+        "sha": "f95f76bcab9a11d419b0eebc80c4d6c7cf0f03ba"
       },
       "homepage": "https://carta.com"
     },
@@ -566,7 +566,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/qodo-ai/qodo-skills.git",
-        "sha": "357492caaaf3bfe5b979adec6a9578b0933b5292"
+        "sha": "e7e9a207455288fb9087107a3d8f700dc00a93fa"
       },
       "homepage": "https://qodo.ai"
     },
@@ -626,7 +626,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/wix/skills.git",
-        "sha": "105a82c7cebc873bc82dffa2a44ba3d6f6e57a2f"
+        "sha": "3a771a138353fddf585386fb600dcc5639d77a0d"
       },
       "homepage": "https://dev.wix.com/docs/wix-cli/guides/development/about-wix-skills"
     },
@@ -664,7 +664,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/langfuse/skills.git",
-        "sha": "ea09af90e5bc2ba48ee7a9c8de394ea2ab55b37a"
+        "sha": "b9958d6c7b0df35a7f1df76a5f6c3a4505b0a3d3"
       },
       "homepage": "https://langfuse.com"
     },
@@ -783,7 +783,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/datarobot-oss/datarobot-agent-skills.git",
-        "sha": "a92f4277e79ad387c46dd5c257ebd3148d846077"
+        "sha": "db112b09ad19059c186f803231da0efbcc89c5b4"
       },
       "homepage": "https://datarobot.com"
     },
@@ -795,7 +795,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/qdrant/skills.git",
-        "sha": "1578f1fe8be965d68047155abe21e891995ffccb"
+        "sha": "15b556ae9b7dc3aa960d14a69ed82ec427305487"
       },
       "homepage": "https://skills.qdrant.tech"
     },
@@ -819,7 +819,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/exa-labs/exa-mcp-server.git",
-        "sha": "e64c11f2d3b4400ffbda8ccdd9658a450cc9d270"
+        "sha": "394f9210ed16d3e25d328e1e6db285824caedc04"
       },
       "homepage": "https://exa.ai/docs/reference/exa-mcp"
     },
@@ -965,7 +965,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/carboneio/carbone-skill.git",
-        "sha": "ca19c321e4bc415765d552c2331f28d0016b4e81"
+        "sha": "52cd97e4ff35490440c066822739e466fab47901"
       },
       "homepage": "https://carbone.io"
     },
@@ -977,7 +977,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/GoogleChrome/modern-web-guidance.git",
-        "sha": "9e70fa4c808b52364eb85c645e261523231176f6"
+        "sha": "684ab9d7c6b78fc2cd5677912d874397cb2e5dfa"
       },
       "homepage": "https://goo.gle/modern-web-guidance"
     },
@@ -1046,20 +1046,6 @@
         "sha": "f7a53b2cd138c22eccb977b9d93494ea6d423d12"
       },
       "homepage": "https://www.gitkraken.com"
-    },
-    {
-      "name": "synthflow",
-      "displayName": "Synthflow",
-      "description": "Connects Claude Code to the Synthflow AI voice-agent platform through its hosted MCP server, with skills for reviewing calls and auditing agent prompts, plus a docs-search connector.",
-      "category": "automation",
-      "source": {
-        "source": "git-subdir",
-        "url": "https://github.com/SynthFlowAI/AnthropicPlugin.git",
-        "path": "plugins/synthflow",
-        "ref": "main",
-        "sha": "205871ee83508502d2c982ee1bb7e65a2a29190b"
-      },
-      "homepage": "https://synthflow.ai"
     }
   ]
 }
