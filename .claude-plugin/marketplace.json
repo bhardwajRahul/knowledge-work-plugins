@@ -429,7 +429,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/figma/mcp-server-guide.git",
-        "sha": "22b2c566d98880ebdb5a8e48eb2c66c596a6d990"
+        "sha": "72fcf1f4b170bcaa78fa8bef2f27cce15f4d58f4"
       },
       "homepage": "https://github.com/figma/mcp-server-guide"
     },
@@ -500,7 +500,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-cap-table",
         "ref": "main",
-        "sha": "49150339f8246e846eb668e375fa96dbe9c24581"
+        "sha": "f29d4c77ed721df034a073eb3b2fffd67973b3d6"
       },
       "homepage": "https://carta.com"
     },
@@ -513,7 +513,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-crm",
         "ref": "main",
-        "sha": "49150339f8246e846eb668e375fa96dbe9c24581"
+        "sha": "f29d4c77ed721df034a073eb3b2fffd67973b3d6"
       },
       "homepage": "https://carta.com"
     },
@@ -526,7 +526,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-investors",
         "ref": "main",
-        "sha": "c4fbb077199631504a7c95c7b760b0a188d9eb4c"
+        "sha": "f29d4c77ed721df034a073eb3b2fffd67973b3d6"
       },
       "homepage": "https://carta.com"
     },
@@ -593,7 +593,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/twilio/ai.git",
-        "sha": "8aba46fb65dc8d9a20f4b301a68352064b4159a5"
+        "sha": "d7b0f231468cd9a6a0bab9ebcde8c1a5c9220bba"
       },
       "homepage": "https://www.twilio.com"
     },
@@ -626,7 +626,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/wix/skills.git",
-        "sha": "6a19174cd727ea6faf6e23f0584261c6d32ddbeb"
+        "sha": "d9b73923907f91989335cf4f26dce52095faeea4"
       },
       "homepage": "https://dev.wix.com/docs/wix-cli/guides/development/about-wix-skills"
     },
@@ -795,7 +795,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/qdrant/skills.git",
-        "sha": "864f969fc7f8c6c02e0133f37e4f0840fe0f1fab"
+        "sha": "1047aa8d8ac9ada13caead755d62a4d485969869"
       },
       "homepage": "https://skills.qdrant.tech"
     },
@@ -991,7 +991,7 @@
         "url": "https://github.com/stackhawk/agent-skills.git",
         "path": "plugins/api",
         "ref": "main",
-        "sha": "19c14577b7e0360262d02f7a232055c67e9c46a6"
+        "sha": "ba4bab433d31dc313de2ac6e72a43318b31f28dd"
       },
       "homepage": "https://docs.stackhawk.com/ai-security/"
     },
@@ -1005,7 +1005,7 @@
         "url": "https://github.com/stackhawk/agent-skills.git",
         "path": "plugins/hawkscan",
         "ref": "main",
-        "sha": "19c14577b7e0360262d02f7a232055c67e9c46a6"
+        "sha": "2afbfaebe5f3c9c93c81347cf2826e05f1331826"
       },
       "homepage": "https://docs.stackhawk.com/ai-security/"
     },
