@@ -5,20 +5,6 @@
   },
   "plugins": [
     {
-      "name": "noibu",
-      "displayName": "Noibu",
-      "description": "Built for ecommerce, the Noibu plugin bridges the gap between customer experience and revenue by connecting Claude directly to your store's session, error, and conversion data through Noibu — and to the marketing, support, and commerce platforms that put insight into motion. Go beyond analysis: surface what's costing you revenue, take action across your stack, build workflows to automate work end-to-end.",
-      "category": "monitoring",
-      "source": {
-        "source": "git-subdir",
-        "url": "https://github.com/Noibu/ai-plugin.git",
-        "path": "src",
-        "ref": "main",
-        "sha": "bcf16c9762e54054902389d63a283837b0346c37"
-      },
-      "homepage": "https://help.noibu.com/articles/3918362002-overview-of-the-noibu-plugin-for-claude"
-    },
-    {
       "name": "productivity",
       "displayName": "Productivity",
       "source": "./productivity",
@@ -221,7 +207,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/planetscale/claude-plugin.git",
-        "sha": "849552445a90b17f2b17267593d0a10d41d4b316"
+        "sha": "835e6e4c76477384d1321650e20bd0d65ec445a7"
       },
       "homepage": "https://planetscale.com/"
     },
