@@ -14,7 +14,7 @@
         "url": "https://github.com/Noibu/ai-plugin.git",
         "path": "src",
         "ref": "main",
-        "sha": "bcf16c9762e54054902389d63a283837b0346c37"
+        "sha": "5e696fc88ef0ef9324776b6ae05413a296504e7c"
       },
       "homepage": "https://help.noibu.com/articles/3918362002-overview-of-the-noibu-plugin-for-claude"
     },
@@ -1084,7 +1084,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Unity-Technologies/unity-agent-plugin.git",
-        "sha": "7044d9317afe00777140beb2350a1330edc73d69"
+        "sha": "48b739d8e1be8480dc1c67177b11a7b39af4b5ef"
       },
       "homepage": "https://unity.com"
     },
