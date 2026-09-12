@@ -14,7 +14,7 @@
         "url": "https://github.com/Noibu/ai-plugin.git",
         "path": "src",
         "ref": "main",
-        "sha": "070beb10dff94bcd92936c8e274367b6fd594fdd"
+        "sha": "68c850c49a9e367684dade1f0d127c86c90435aa"
       },
       "homepage": "https://help.noibu.com/articles/3918362002-overview-of-the-noibu-plugin-for-claude"
     },
@@ -210,7 +210,7 @@
         "url": "https://github.com/miroapp/miro-ai.git",
         "path": "claude-plugins/miro",
         "ref": "main",
-        "sha": "c2494b24510d01ec3e50fad94a0c5fc3ca40e339"
+        "sha": "85c2c7347542b3ce185eb1d2793f8d79ad485c63"
       }
     },
     {
@@ -248,7 +248,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/sanity-io/agent-toolkit.git",
-        "sha": "8675ed36b5f5da950c3920c118d025cd1c94f58e"
+        "sha": "e447ef10e09f14e245fa787d59157c7ae3576744"
       },
       "homepage": "https://www.sanity.io"
     },
@@ -341,7 +341,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/fastly/fastly-agent-toolkit.git",
-        "sha": "2b3bdd647a81df7a8286e516eb05874ef2efc4fa"
+        "sha": "42a6070055b2cc08e1f085107685d7eb216b72ed"
       },
       "homepage": "https://github.com/fastly/fastly-agent-toolkit/blob/main/README.md"
     },
@@ -385,7 +385,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/searchfit/searchfit-seo.git",
-        "sha": "c324a2e87c4dd84fe6bd6d55e45272acdd090afd"
+        "sha": "ced1a99a9fadfc10aa573a05829fc1bd357d4e4c"
       },
       "homepage": "https://searchfit.ai"
     },
@@ -431,7 +431,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/gitroomhq/postiz-agent.git",
-        "sha": "51293500c1b1fb447205100cb09b2999085323ac"
+        "sha": "6d3be9c0aec768075e91b4a29b04fb624d72d942"
       },
       "homepage": "https://postiz.com/agent"
     },
@@ -443,7 +443,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/figma/mcp-server-guide.git",
-        "sha": "f74a51c9aaec87a2e65c9121753b63fb42203d96"
+        "sha": "ae7e5e5f80da20f1dd7445e0c6ae5ac58a5b0bce"
       },
       "homepage": "https://github.com/figma/mcp-server-guide"
     },
@@ -475,7 +475,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/box/skills.git",
-        "sha": "35567f913a2bfd7f8b59367c9df3ae14b5ad4cfe"
+        "sha": "aa75770f645367778df215dcbebbeec0b7e05546"
       },
       "homepage": "https://github.com/box/skills"
     },
@@ -514,7 +514,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-cap-table",
         "ref": "main",
-        "sha": "81b8f40844bd646842538a4583409f9aa54c42db"
+        "sha": "c02c7ecf2e2d2c3f87ab30a04210732da10931be"
       },
       "homepage": "https://carta.com"
     },
@@ -527,7 +527,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-crm",
         "ref": "main",
-        "sha": "81b8f40844bd646842538a4583409f9aa54c42db"
+        "sha": "c02c7ecf2e2d2c3f87ab30a04210732da10931be"
       },
       "homepage": "https://carta.com"
     },
@@ -540,7 +540,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-investors",
         "ref": "main",
-        "sha": "81b8f40844bd646842538a4583409f9aa54c42db"
+        "sha": "c02c7ecf2e2d2c3f87ab30a04210732da10931be"
       },
       "homepage": "https://carta.com"
     },
@@ -583,7 +583,7 @@
         "url": "https://github.com/qodo-ai/qodo-skills.git",
         "path": "packages/qodo",
         "ref": "main",
-        "sha": "0336855a279df489a516913679263c67a88386e3"
+        "sha": "3f017b1f2e13dbf9feb532143dc39fa4eea12479"
       },
       "homepage": "https://qodo.ai"
     },
@@ -597,7 +597,7 @@
         "url": "https://github.com/qodo-ai/qodo-skills.git",
         "path": "packages/qodo-standards",
         "ref": "main",
-        "sha": "0336855a279df489a516913679263c67a88386e3"
+        "sha": "3f017b1f2e13dbf9feb532143dc39fa4eea12479"
       },
       "homepage": "https://qodo.ai"
     },
@@ -657,7 +657,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/wix/skills.git",
-        "sha": "d8247b9f4603ecadc2891d3ded9bb285d5ee433b"
+        "sha": "f2c9dcada7c98c2cd4693619ced00ca2bc601e74"
       },
       "homepage": "https://dev.wix.com/docs/wix-cli/guides/development/about-wix-skills"
     },
@@ -683,7 +683,7 @@
         "url": "https://github.com/airwallex/airwallex-marketplace.git",
         "path": "plugins/airwallex-agentos",
         "ref": "master",
-        "sha": "d323dd68c85874f6311a1bd20184f803a96e09a9"
+        "sha": "d4593e33a9e1177a44b895ca0a1d6e015215736f"
       },
       "homepage": "https://www.airwallex.com/docs"
     },
@@ -695,7 +695,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/langfuse/skills.git",
-        "sha": "e04f3ea7d0695cd903cf158db3c72916111f0978"
+        "sha": "fc574260e5530b217d94e06465a4da0c7d846888"
       },
       "homepage": "https://langfuse.com"
     },
@@ -778,7 +778,7 @@
         "url": "https://github.com/auth0/agent-skills.git",
         "path": "plugins/auth0",
         "ref": "main",
-        "sha": "df772d3950fbe7259237a373eaa2665d7e946830"
+        "sha": "7af36e12061ac5643bf420f35aa3fd8daf958292"
       },
       "homepage": "https://github.com/auth0/agent-skills"
     },
@@ -826,7 +826,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/qdrant/skills.git",
-        "sha": "fcfb9f1fbc6a7c91de6a2f065436e4c051a6c772"
+        "sha": "3ca3d5659279256124ceda2bcb864255938185a5"
       },
       "homepage": "https://skills.qdrant.tech"
     },
@@ -890,7 +890,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/pixeltable/pixeltable-skill.git",
-        "sha": "f550e6ed757b48635e4f53900840f4e9a1fb4c93"
+        "sha": "e1e47d2a3f015c0fe2ea78df57bbb4bb945ecc14"
       },
       "homepage": "https://docs.pixeltable.com"
     },
@@ -956,7 +956,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/b12io/b12-claude-plugin.git",
-        "sha": "1875a9bb8e91d525a66e82ceed0a3ab5c93ccb14"
+        "sha": "3e74af673104e96622060924eef386e6de2737f6"
       },
       "homepage": "https://github.com/b12io/b12-claude-plugin"
     },
@@ -1022,7 +1022,7 @@
         "url": "https://github.com/stackhawk/agent-skills.git",
         "path": "plugins/api",
         "ref": "main",
-        "sha": "d9b265ff67a4feaa579d37504009dd4292966460"
+        "sha": "19c14577b7e0360262d02f7a232055c67e9c46a6"
       },
       "homepage": "https://docs.stackhawk.com/ai-security/"
     },
@@ -1036,7 +1036,7 @@
         "url": "https://github.com/stackhawk/agent-skills.git",
         "path": "plugins/hawkscan",
         "ref": "main",
-        "sha": "d9b265ff67a4feaa579d37504009dd4292966460"
+        "sha": "19c14577b7e0360262d02f7a232055c67e9c46a6"
       },
       "homepage": "https://docs.stackhawk.com/ai-security/"
     },
@@ -1048,7 +1048,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/growthbook/skills.git",
-        "sha": "9146fd627d98fb6fe9ca4bb3470014698699b737"
+        "sha": "6ab3294a4f9fe2b6f88ad567cbb2bf6cb9a2343b"
       },
       "homepage": "https://growthbook.io"
     },
@@ -1100,51 +1100,9 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Unity-Technologies/unity-agent-plugin.git",
-        "sha": "34bc9c40bd19534c2d8483da19011913f033bbaf"
+        "sha": "1aefde12b046a37b735a856d228eb6d427e3d31e"
       },
       "homepage": "https://unity.com"
-    },
-    {
-      "name": "unstructured-foundation",
-      "displayName": "Unstructured Foundation",
-      "description": "Connect sources and search processed documents with Unstructured Foundation. Provides MCP access to source setup, processing status, document search, and document retrieval.",
-      "category": "productivity",
-      "source": {
-        "source": "git-subdir",
-        "url": "https://github.com/Unstructured-IO/unstructured-foundation-marketplace.git",
-        "path": "plugins/foundation",
-        "ref": "main",
-        "sha": "492770f062ba9f01e8a0ae9b111c89e4642fdb29"
-      },
-      "homepage": "https://unstructured.io"
-    },
-    {
-      "name": "netsuite-ai-companion",
-      "displayName": "NetSuite AI Companion",
-      "description": "Guides AI assistants that use the NetSuite AI Connector: tool-selection order, output formatting, NetSuite domain knowledge, multi-subsidiary and currency handling, and SuiteQL safety guardrails. Requires the NetSuite AI Connector Service.",
-      "category": "productivity",
-      "source": {
-        "source": "git-subdir",
-        "url": "https://github.com/oracle/netsuite-suitecloud-sdk.git",
-        "path": "anthropic/netsuite-ai-companion",
-        "ref": "ai-plugins-dist",
-        "sha": "23793a10a9bb557c684c5cb8a97f926eb3463f12"
-      },
-      "homepage": "https://github.com/oracle/netsuite-suitecloud-sdk/tree/ai-plugins-dist/anthropic/netsuite-ai-companion"
-    },
-    {
-      "name": "netsuite-finance-analyst",
-      "displayName": "NetSuite Finance Analyst",
-      "description": "Director-level finance analysis on live NetSuite data: financial reporting, period close, variance, aging and reconciliation reviews, cash reporting, and board-ready narratives with next actions. Requires the NetSuite AI Connector Service.",
-      "category": "productivity",
-      "source": {
-        "source": "git-subdir",
-        "url": "https://github.com/oracle/netsuite-suitecloud-sdk.git",
-        "path": "anthropic/netsuite-finance-analyst",
-        "ref": "ai-plugins-dist",
-        "sha": "23793a10a9bb557c684c5cb8a97f926eb3463f12"
-      },
-      "homepage": "https://github.com/oracle/netsuite-suitecloud-sdk/tree/ai-plugins-dist/anthropic/netsuite-finance-analyst"
     },
     {
       "name": "activecampaign",
@@ -1185,32 +1143,6 @@
         "sha": "843d5a38f82cdc1b275baf4953a659be0ad41247"
       },
       "homepage": "https://www.hubspot.com"
-    },
-    {
-      "name": "gc-ai",
-      "displayName": "GC AI",
-      "description": "Work in your GC AI legal knowledge base from Claude: upload documents, run review playbooks, and ask questions grounded in your own files, all as you.",
-      "category": "productivity",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/GC-AI-Inc/gc-ai-claude-plugin.git",
-        "sha": "efda779972c7b7162e79234e164bc2f359a8a518"
-      },
-      "homepage": "https://docs.gc.ai/api-reference/mcp/overview"
-    },
-    {
-      "name": "maven-bio",
-      "displayName": "Maven Bio",
-      "description": "Evidence-backed BioPharma research workflows over Maven Bio's drug, trial, company, and deal knowledge graph. Skills for competitive pipelines, indication landscapes, asset profiles, deal and financing activity, and evidence synthesis grounded in FDA, SEC, clinical, and press sources. Requires a Maven Bio account.",
-      "category": "productivity",
-      "source": {
-        "source": "git-subdir",
-        "url": "https://github.com/MavenBio/maven-bio-plugin.git",
-        "path": "plugins/maven-bio",
-        "ref": "main",
-        "sha": "885259378b239f9a4d3fe628ccea91d490edc3e9"
-      },
-      "homepage": "https://mavenbio.com/mcp/docs"
     }
   ]
 }
