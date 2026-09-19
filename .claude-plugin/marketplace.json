@@ -210,7 +210,7 @@
         "url": "https://github.com/miroapp/miro-ai.git",
         "path": "claude-plugins/miro",
         "ref": "main",
-        "sha": "b6408e1bdfe0c842f209d40b52e92caf118a4d39"
+        "sha": "c2494b24510d01ec3e50fad94a0c5fc3ca40e339"
       }
     },
     {
@@ -443,7 +443,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/figma/mcp-server-guide.git",
-        "sha": "ecefd5b5dfd0ca7a1b8f142e0d59bc7f8a2efde6"
+        "sha": "d638a5e055e8d95e0394a94350860398cf424b74"
       },
       "homepage": "https://github.com/figma/mcp-server-guide"
     },
@@ -514,7 +514,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-cap-table",
         "ref": "main",
-        "sha": "15286b2faa7cecc67af82c5a7d995ecfc61caa88"
+        "sha": "12bb447e186f52c20aee6588761498f2acf76fc3"
       },
       "homepage": "https://carta.com"
     },
@@ -540,7 +540,7 @@
         "url": "https://github.com/carta/plugins.git",
         "path": "plugins/carta-investors",
         "ref": "main",
-        "sha": "15286b2faa7cecc67af82c5a7d995ecfc61caa88"
+        "sha": "12bb447e186f52c20aee6588761498f2acf76fc3"
       },
       "homepage": "https://carta.com"
     },
@@ -576,7 +576,7 @@
     {
       "name": "qodo",
       "displayName": "Qodo",
-      "description": "Bring Qodo's codebase intelligence, coding standards, and code review into your coding agent.",
+      "description": "Shift-left code review skills that bring Qodo's quality standards and code review capabilities into your local development workflow. Catch issues before commit, enforce organizational standards, and resolve PR feedback directly in your agent.",
       "category": "development",
       "source": {
         "source": "git-subdir",
@@ -657,7 +657,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/wix/skills.git",
-        "sha": "8895c163584c5043c023b0110586ab234fbf2fc9"
+        "sha": "9c48e3f65cc869868d617c5995cf852cc71f64af"
       },
       "homepage": "https://dev.wix.com/docs/wix-cli/guides/development/about-wix-skills"
     },
@@ -675,11 +675,8 @@
     },
     {
       "name": "airwallex-agentos",
-      "displayName": "Airwallex",
+      "displayName": "Airwallex AgentOS",
       "description": "Bring Airwallex's global financial infrastructure to Claude. Orchestrate actions across your account in plain language, e.g., set up invoices from a PO, onboard suppliers from invoices, and check current cash position across currencies. AgentOS bundles pre-built finance Skills with MCP servers. A public CLI connects your agent to Airwallex's capabilities.",
-      "author": {
-        "name": "Airwallex"
-      },
       "category": "productivity",
       "source": {
         "source": "git-subdir",
@@ -781,7 +778,7 @@
         "url": "https://github.com/auth0/agent-skills.git",
         "path": "plugins/auth0",
         "ref": "main",
-        "sha": "46e17946a35e9a1d2ecca0acd503b56d941ba71e"
+        "sha": "f135610540ea41e4d99882dc1f06162030c7340b"
       },
       "homepage": "https://github.com/auth0/agent-skills"
     },
@@ -959,7 +956,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/b12io/b12-claude-plugin.git",
-        "sha": "c1eb08dbff0d918bdf65a103fda93e16e986c6ab"
+        "sha": "d62abde597f78568cfccea271e0deb8f3431ee07"
       },
       "homepage": "https://github.com/b12io/b12-claude-plugin"
     },
@@ -973,7 +970,7 @@
         "url": "https://github.com/SigNoz/agent-skills.git",
         "path": "plugins/signoz",
         "ref": "main",
-        "sha": "4cdc848eb480f02bc07d06cb8d4f8486f635cbd6"
+        "sha": "0a6e9a03263da402c2db9166c0b83264966fbe9f"
       },
       "homepage": "https://signoz.io/docs/ai/agent-skills"
     },
@@ -1011,7 +1008,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/GoogleChrome/modern-web-guidance.git",
-        "sha": "66351a783bf1319a1d832f5544f9700098b1047d"
+        "sha": "16ed22b43fa56157adadfb25f18a354197d497b9"
       },
       "homepage": "https://goo.gle/modern-web-guidance"
     },
@@ -1288,7 +1285,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Leadfeeder/leadfeeder-mcp-plugin.git",
-        "sha": "cddf27f0771393b01a9a91335b8972e44f48cf45"
+        "sha": "f344f4383363199963c34a0c353e09d26596d501"
       },
       "homepage": "https://www.leadfeeder.com"
     },
@@ -1315,35 +1312,6 @@
         "sha": "322b2d3fbd4db0a2eeed117e3b3c31522408ae6f"
       },
       "homepage": "https://www.chronograph.pe/"
-    },
-    {
-      "name": "incident-io",
-      "displayName": "incident.io",
-      "description": "Work with incident.io from Claude: respond to and investigate incidents, check on-call schedules and escalations, and author the runbooks, skills and architecture docs that incident.io investigations draw on. Bundles the official incident.io MCP server (OAuth on first use).",
-      "category": "monitoring",
-      "source": {
-        "source": "git-subdir",
-        "url": "https://github.com/incident-io/skills.git",
-        "path": "plugins/incident-io",
-        "ref": "main",
-        "sha": "6d0bbfc9e52256fc39326b9ba6d08f16831b60ae"
-      },
-      "homepage": "https://incident.io"
-    },
-    {
-      "name": "wingspan",
-      "displayName": "Wingspan",
-      "description": "Ask Claude about the contractors you pay through Wingspan, what you owe them, and what is holding up a payment, then onboard contractors and log payments as drafts, with a preview before anything is written. Requires a Wingspan account; bundles the Wingspan MCP server (OAuth on first use).",
-      "author": {
-        "name": "Wingspan"
-      },
-      "category": "finance",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/wingspanHQ/mcp-claude-plugin.git",
-        "sha": "b989f3b303a1f605955291e34ed29b755bf436e1"
-      },
-      "homepage": "https://github.com/wingspanHQ/mcp-claude-plugin"
     }
   ]
 }
